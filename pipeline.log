@@ -1,8 +1,0 @@
-2026-05-20 14:01:33,839 - INFO - === STARTING CRYPTO PIPELINE RUN ===
-2026-05-20 14:01:33,844 - INFO - Starting: API Ingestion to Postgres Raw Schema...
-2026-05-20 14:01:38,627 - INFO - Success: API Ingestion to Postgres Raw Schema
-2026-05-20 14:01:38,628 - INFO - Starting: SQLMesh Transformation and Mart Refresh...
-2026-05-20 14:01:47,119 - INFO - Success: SQLMesh Transformation and Mart Refresh
-2026-05-20 14:01:47,120 - INFO - === CRYPTO PIPELINE RUN COMPLETE ===
-Data appended successfully with timestamps.
-No differences when compared to `local`
