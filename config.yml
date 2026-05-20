@@ -1,0 +1,12 @@
+model_defaults:
+  dialect: postgres
+
+gateways:
+  local_postgres:
+    connection:
+      type: postgres
+      host: localhost
+      port: 5432
+      user: postgres
+      password: Olayinka@1 #"Olayinka%401"  # Encoded @ to prevent connection errors
+      database: crypto_pipeline

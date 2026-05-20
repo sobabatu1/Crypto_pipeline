@@ -1,0 +1,119 @@
+2026-05-20 12:43:20,341 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0001_init' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0001_init.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,367 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0002_remove_identify' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0002_remove_identify.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,367 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0003_move_batch_size' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0003_move_batch_size.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,369 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0004_environmnent_add_finalized_at' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0004_environmnent_add_finalized_at.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,372 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0005_create_seed_table' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0005_create_seed_table.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,377 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0006_change_seed_hash' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0006_change_seed_hash.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,377 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0007_env_table_info_to_kind' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0007_env_table_info_to_kind.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,380 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0008_create_intervals_table' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0008_create_intervals_table.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,390 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0009_remove_pre_post_hooks' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0009_remove_pre_post_hooks.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,391 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0010_seed_hash_batch_size' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0010_seed_hash_batch_size.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,392 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0011_add_model_kind_name' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0011_add_model_kind_name.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,394 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0012_update_jinja_expressions' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0012_update_jinja_expressions.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,397 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0013_serde_using_model_dialects' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0013_serde_using_model_dialects.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,399 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0014_fix_dev_intervals' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0014_fix_dev_intervals.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,402 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0015_environment_add_promoted_snapshot_ids' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0015_environment_add_promoted_snapshot_ids.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,403 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0016_fix_windows_path' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0016_fix_windows_path.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,405 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0017_fix_windows_seed_path' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0017_fix_windows_seed_path.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,407 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0018_rename_snapshot_model_to_node' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0018_rename_snapshot_model_to_node.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,408 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0019_add_env_suffix_target' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0019_add_env_suffix_target.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,410 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0020_remove_redundant_attributes_from_dbt_models' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0020_remove_redundant_attributes_from_dbt_models.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,410 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0021_fix_table_properties' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0021_fix_table_properties.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,411 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0022_move_project_to_model' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0022_move_project_to_model.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,412 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0023_fix_added_models_with_forward_only_parents' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0023_fix_added_models_with_forward_only_parents.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,413 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0024_replace_model_kind_name_enum_with_value' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0024_replace_model_kind_name_enum_with_value.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,414 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0025_fix_intervals_and_missing_change_category' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0025_fix_intervals_and_missing_change_category.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,415 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0026_remove_dialect_from_seed' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0026_remove_dialect_from_seed.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,415 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0027_minute_interval_to_five' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0027_minute_interval_to_five.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,416 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0028_add_plan_dags_table' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0028_add_plan_dags_table.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,421 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0029_generate_schema_types_using_dialect' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0029_generate_schema_types_using_dialect.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,422 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0030_update_unrestorable_snapshots' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0030_update_unrestorable_snapshots.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,423 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0031_remove_dbt_target_fields' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0031_remove_dbt_target_fields.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,424 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0032_add_sqlmesh_version' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0032_add_sqlmesh_version.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,424 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0033_mysql_fix_blob_text_type' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0033_mysql_fix_blob_text_type.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,424 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0034_add_default_catalog' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0034_add_default_catalog.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,429 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0035_add_catalog_name_override' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0035_add_catalog_name_override.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,430 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0036_delete_plan_dags_bug_fix' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0036_delete_plan_dags_bug_fix.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,431 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0037_remove_dbt_is_incremental_macro' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0037_remove_dbt_is_incremental_macro.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,432 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0038_add_expiration_ts_to_snapshot' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0038_add_expiration_ts_to_snapshot.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,433 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0039_include_environment_in_plan_dag_spec' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0039_include_environment_in_plan_dag_spec.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,434 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0040_add_previous_finalized_snapshots' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0040_add_previous_finalized_snapshots.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,434 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0041_remove_hash_raw_query_attribute' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0041_remove_hash_raw_query_attribute.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,435 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0042_trim_indirect_versions' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0042_trim_indirect_versions.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,436 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0043_fix_remove_obsolete_attributes_in_plan_dags' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0043_fix_remove_obsolete_attributes_in_plan_dags.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,437 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0044_quote_identifiers_in_model_attributes' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0044_quote_identifiers_in_model_attributes.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,437 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0045_move_gateway_variable' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0045_move_gateway_variable.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,437 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0046_add_batch_concurrency' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0046_add_batch_concurrency.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,437 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0047_change_scd_string_to_column' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0047_change_scd_string_to_column.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,437 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0048_drop_indirect_versions' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0048_drop_indirect_versions.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,438 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0049_replace_identifier_with_version_in_seeds_table' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0049_replace_identifier_with_version_in_seeds_table.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,459 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0050_drop_seeds_table' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0050_drop_seeds_table.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,460 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Applying migration <module 'sqlmesh.migrations.v0051_rename_column_descriptions' from '/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/migrations/v0051_rename_column_descriptions.py'> (engine_adapter.py:1004)
+2026-05-20 12:43:20,461 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Fetching environments (engine_adapter.py:1010)
+2026-05-20 12:43:20,462 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - Migrating snapshot rows... (engine_adapter.py:1027)
+2026-05-20 12:43:20,463 - MainThread - sqlmesh.core.state_sync.engine_adapter - INFO - No changes to snapshots detected (engine_adapter.py:1020)
+2026-05-20 12:43:23,493 - ThreadPoolExecutor-0_0 - sqlmesh.core.snapshot.evaluator - INFO - Listing data objects in schema crypto_pipeline.sqlmesh__staging (evaluator.py:266)
+2026-05-20 12:43:23,493 - ThreadPoolExecutor-0_1 - sqlmesh.core.snapshot.evaluator - INFO - Listing data objects in schema crypto_pipeline.sqlmesh__marts (evaluator.py:266)
+2026-05-20 12:43:23,507 - ThreadPoolExecutor-0_0 - sqlmesh.core.engine_adapter.base - INFO - Executing SQL: SELECT current_catalog (base.py:1834)
+2026-05-20 12:43:23,521 - ThreadPoolExecutor-0_1 - sqlmesh.core.engine_adapter.base - INFO - Executing SQL: SELECT current_catalog (base.py:1834)
+2026-05-20 12:43:23,654 - MainThread - sqlmesh.core.snapshot.evaluator - INFO - Creating schema 'crypto_pipeline.sqlmesh__marts' (evaluator.py:850)
+2026-05-20 12:43:23,666 - MainThread - sqlmesh.core.engine_adapter.base - INFO - Executing SQL: CREATE SCHEMA IF NOT EXISTS "sqlmesh__marts" (base.py:1834)
+2026-05-20 12:43:23,668 - MainThread - sqlmesh.core.snapshot.evaluator - INFO - Creating schema 'crypto_pipeline.sqlmesh__staging' (evaluator.py:850)
+2026-05-20 12:43:23,668 - MainThread - sqlmesh.core.engine_adapter.base - INFO - Executing SQL: CREATE SCHEMA IF NOT EXISTS "sqlmesh__staging" (base.py:1834)
+2026-05-20 12:43:23,683 - ThreadPoolExecutor-1_0 - sqlmesh.core.snapshot.evaluator - INFO - Creating view 'crypto_pipeline.sqlmesh__staging.staging__stg_crypto__975250961__temp' (evaluator.py:1592)
+2026-05-20 12:43:23,685 - ThreadPoolExecutor-1_0 - sqlmesh.core.engine_adapter.base - INFO - Executing SQL: DROP VIEW IF EXISTS "sqlmesh__staging"."staging__stg_crypto__975250961__temp" CASCADE (base.py:1834)
+2026-05-20 12:43:23,686 - ThreadPoolExecutor-1_0 - sqlmesh.core.engine_adapter.base - INFO - Executing SQL: CREATE VIEW "sqlmesh__staging"."staging__stg_crypto__975250961__temp" AS SELECT "coin_id" AS "coin_id", "price_usd" AS "price_usd", "volume_24h" AS "volume_24h", "created_at" AS "created_at" FROM "crypto_pipeline"."raw"."market_data" AS "market_data" (base.py:1834)
+2026-05-20 12:43:23,692 - MainThread - sqlmesh.core.context - ERROR - Apply Failure: Traceback (most recent call last):
+  File "/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/utils/concurrency.py", line 69, in _process_node
+    self.fn(node)
+  File "/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/utils/concurrency.py", line 165, in <lambda>
+    lambda s_id: fn(snapshots_by_id[s_id]),
+  File "/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/core/snapshot/evaluator.py", line 293, in <lambda>
+    lambda s: self._create_snapshot(
+  File "/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/core/snapshot/evaluator.py", line 680, in _create_snapshot
+    evaluation_strategy.create(
+  File "/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/core/snapshot/evaluator.py", line 1593, in create
+    self.adapter.create_view(
+  File "/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/core/engine_adapter/shared.py", line 291, in internal_wrapper
+    return func(*list_args, **kwargs)
+  File "/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/core/engine_adapter/base_postgres.py", line 110, in create_view
+    super().create_view(
+  File "/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/core/engine_adapter/shared.py", line 277, in internal_wrapper
+    return func(*list_args, **kwargs)
+  File "/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/core/engine_adapter/base.py", line 889, in create_view
+    self.execute(
+  File "/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/core/engine_adapter/base.py", line 1831, in execute
+    self._execute(sql, **kwargs)
+  File "/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/core/engine_adapter/base.py", line 1837, in _execute
+    self.cursor.execute(sql, **kwargs)
+psycopg2.errors.UndefinedTable: relation "raw.market_data" does not exist
+LINE 1: ...S "volume_24h", "created_at" AS "created_at" FROM "crypto_pi...
+                                                             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/core/context.py", line 1172, in apply
+    self._apply(plan, circuit_breaker)
+  File "/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/core/context.py", line 1723, in _apply
+    self._scheduler.create_plan_evaluator(self).evaluate(plan, circuit_breaker=circuit_breaker)
+  File "/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/core/plan/evaluator.py", line 109, in evaluate
+    self._push(plan, deployability_index_for_creation)
+  File "/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/core/plan/evaluator.py", line 199, in _push
+    self.snapshot_evaluator.create(
+  File "/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/core/snapshot/evaluator.py", line 291, in create
+    concurrent_apply_to_snapshots(
+  File "/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/utils/concurrency.py", line 163, in concurrent_apply_to_snapshots
+    return concurrent_apply_to_dag(
+  File "/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/utils/concurrency.py", line 200, in concurrent_apply_to_dag
+    return ConcurrentDAGExecutor(
+  File "/Users/lbaba/Crypto_pipeline/.venv/lib/python3.8/site-packages/sqlmesh/utils/concurrency.py", line 64, in run
+    self._finished_future.result()
+  File "/opt/anaconda3/lib/python3.8/concurrent/futures/_base.py", line 439, in result
+    return self.__get_result()
+  File "/opt/anaconda3/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+sqlmesh.utils.concurrency.NodeExecutionFailedError: Execution failed for node SnapshotId<"crypto_pipeline"."staging"."stg_crypto": 648709931>
+ (context.py:1180)
+2026-05-20 12:43:23,693 - MainThread - root - INFO - Shutting down the event dispatcher (dispatcher.py:159)
