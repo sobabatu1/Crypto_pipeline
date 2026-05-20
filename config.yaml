@@ -1,0 +1,8 @@
+gateways:
+  local:
+    connection:
+      type: postgres
+      host: localhost
+      user: postgres
+      password: Olayinka@1  
+      database: crypto_pipeline

@@ -1,0 +1,8 @@
+.venv/
+crypto_pipeline/.venv/
+.cache/
+logs/
+*.log
+.sqlmesh/
+sqlmesh.db
+.DS_Store
